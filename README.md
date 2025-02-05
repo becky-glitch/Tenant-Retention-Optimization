@@ -48,8 +48,8 @@ Step 2: Data Modeling
 
 Step 3: Analysis and Dashboard Creation
   Tools: Power BI Visualization Features
-   -Built interactive dashboards with filters, slicers, and drill-through functionality.
-   -Used bar charts, line graphs, and heat maps to visualize key retention trends.
+   - Built interactive dashboards with filters, slicers, and drill-through functionality.
+   - Used bar charts, line graphs, and heat maps to visualize key retention trends.
    - Created KPIs to track tenant satisfaction metrics
 
 ### Insights
